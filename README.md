@@ -2,7 +2,7 @@
 - 👀 I’m interested in all IT relevent activites
 - 🌱 I’m currently learning AWS cloud for solution/architect
 - 💞️ I’m looking to collaborate on any challenges you met and enjoy learning together
-- 📫 Just leave me a message you want to learn more
+- 📫 Just leave me a message you want to get more details
 
 <!---
 bji129/bji129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
